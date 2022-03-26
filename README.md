@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   
   <img src="http://gazebosim.org/assets/gazebo_vert-af0a0ada204b42b6daca54e98766979e45e011ea22347ffe90580458476d26d6.png" height="50" alt=""/>   
   <img src="https://logowik.com/content/uploads/images/git6963.jpg" height="50" alt=""/> 
-  <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png?w=144" height="50 alt=""/>
+  <a href="https://github.com/RajGavadiya7"><img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png?w=144" height="50 alt=""/>
   
 </p>
 
