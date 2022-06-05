@@ -16,17 +16,16 @@ Here are some ideas to get you started:
 
  
 **RajGavadiya7
-- Member of DHRISTI club of SVNIT.
-- 🔭 I’m currently working on building a basic model of Rover which can operated by remote and Autonomously also.
+
 -->
 ---
 
 - 🎓 I am an Undergrad at **SVNIT**
-- 🌱 **I’m currently learning Microcontroller based Project**
-- 🔭 **Current Project :- Rover** 
+- 🌱 **I’m currently learning Data Science**
+ 
 
  <a href="https://github.com/RajGavadiya7/Rover_22"> <br>
- <img src="https://i.pinimg.com/originals/a2/12/2c/a2122cfd71ef04defc5b97ad8e3afeed.jpg"  width="15%"> 
+<!--  <img src="https://i.pinimg.com/originals/a2/12/2c/a2122cfd71ef04defc5b97ad8e3afeed.jpg"  width="15%">  -->
 </a>
 ---
 
