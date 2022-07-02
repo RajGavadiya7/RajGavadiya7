@@ -31,10 +31,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages :-</h3>
 <p align="left"> 
-   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="40" alt=" "/>
-   <img  src="https://wallpapercave.com/wp/wp7250034.jpg" height="40" alt=""/> 
-   <img  src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" height="40" alt=""/>   
-   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="40" alt=""/>     
+   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="50" alt=" "/>
+   <img  src="https://wallpapercave.com/wp/wp7250034.jpg" height="50" alt=""/> 
+   <img  src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" height="50" alt=""/>   
+   <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="50" alt=""/>     
+</p>
+
+<h3 align="left">Database :-</h3>
+<p align="left"> 
+   <img  src="https://user-images.githubusercontent.com/89266138/177005682-d3f5ffd2-3c5d-4141-af70-4c5e8edaa2e2.png" height="50" alt=" "/>
 </p>
 
 
