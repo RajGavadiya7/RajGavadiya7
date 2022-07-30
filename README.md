@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 - 🎓 I am an Undergrad at **SVNIT**
-- 🌱 **I’m currently learning Data Science**
+- 🌱 **I’m currently learning DSA**
  
 
  <a href="https://github.com/RajGavadiya7/Rover_22"> <br>
