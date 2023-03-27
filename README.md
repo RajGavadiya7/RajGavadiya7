@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 - 🎓 I am an Undergrad at **SVNIT**
 - 🌱 **I’m currently learning DSA**
+-  🔭 I’m currently working on **ROS and GAZEBO**
  
 
  <a href="https://github.com/RajGavadiya7/Rover_22"> <br>
