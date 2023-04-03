@@ -83,6 +83,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Languages-Java%20%7C%20C%20%7C%20Python%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-blue" alt="Languages">
   <img src="https://img.shields.io/badge/Database-PostgreSQL-blueviolet" alt="Database">
   <img src="https://img.shields.io/badge/Frameworks-NodeJS%20%7C%20ReactJS%20%7C%20ExpressJS-orange" alt="Frameworks">
-  <img src="https://img.shields.io/badge/Skills-Data%20Structures%20%7C%20Algorithms%20%7C%20OOP%20%7C%20Git%20%7C%20GitHub%20%7C%20Problem%20Solving%20%7C%20Competitive%20Programming-blue" alt="Skills">
+  <img src="https://img.shields.io/badge/Skills-Data%20Structures%20%7C%20Algorithms%20%7C%20OOP%20%7C%20Git%20%7C%20GitHub%20%7C%20ROS%7C%20Competitive%20Programming-blue" alt="Skills">
   <img src="https://img.shields.io/badge/Familiar%20With-RDBMS%20%7C%20Deep%20Learning%20%7C%20Linear%20and%20Logistic%20Regression%20%7C%20Sklearn-yellow" alt="Familiar With">
 </p>
