@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working in  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,12 +17,6 @@ Here are some ideas to get you started:
  
 **RajGavadiya7
 
--->
----
-
-- 🎓 I am an Undergrad at **SVNIT**
-- 🌱 **I’m currently learning DSA**
--  🔭 I’m currently working on **ROS and GAZEBO**
  
 
  <a href="https://github.com/RajGavadiya7/Rover_22"> <br>
